@@ -14,8 +14,10 @@
     num[6] = 14;
     num[8] = 5;
     num[9] = 120;
+    num[10] = 10000;
+    num[11] = 1231244443;
     for (int i = 0; i < 12; i++){
       System.out.print(num[i]+" ");
     }
-  }
+   System.out.print("ANDO MODIFICANDO ESTE ARCHIVOOOOOOOOGOWE")
 }
